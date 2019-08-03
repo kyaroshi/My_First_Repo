@@ -1,0 +1,41 @@
+
+
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+
+.nav_item{
+    width: 10%;
+    display: inline-block;
+   padding: 16px 20px 16px 20px;
+    color: white;
+    background-color: darkslategray;
+}
+
+.left{
+    width: 29%;
+    float: left;
+    height: 100vh;
+    background-color: blue;
+}
+
+.left_top{
+    height: 25%;
+    border: 3px darkslategray;
+    background-color: lightcoral;
+
+}
+
+.left_bottom{
+    height: 75%;
+    background-color: orangered;
+
+}
+
+.right{
+    width: 71%;
+    float: left;
+    height: 100vh;
+    background-color: aquamarine;
+}
